@@ -1,6 +1,6 @@
 <?php
 
-# Module 4 Live Test Exam
+# Module 4 Live Exam
 
 // Task 1 Answer
 class Person
